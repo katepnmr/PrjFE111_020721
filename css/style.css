@@ -54,6 +54,7 @@ a {
     background: #fff;
     display: none;
     position: relative;
+    
 }
 
 .menu__toggle::before {
